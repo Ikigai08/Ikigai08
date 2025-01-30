@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam](https://www.google.com/search?q=gojo+satoru&rlz=1C1GCEU_enPH1094PH1097&oq=gojo+satoru+&gs_lcrp=EgZjaHJvbWUqDAgAEAAYChixAxiABDIMCAAQABgKGLEDGIAEMgwIARAAGAoYsQMYgAQyDAgCEAAYChixAxiABDIJCAMQABgKGIAEMgwIBBAAGAoYsQMYgAQyCQgFEAAYChiABDIGCAYQRRg8MgYIBxBFGDzSAQg0MzAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)](https://www.google.com/search?q=gojo+satoru&rlz=1C1GCEU_enPH1094PH1097&oq=gojo+sat&gs_lcrp=EgZjaHJvbWUqDAgAEEUYOxixAxiABDIMCAAQRRg7GLEDGIAEMgYIARBFGDkyCggCEAAYsQMYgAQyCggDEAAYsQMYgAQyBwgEEAAYgAQyCggFEAAYsQMYgAQyBggGEEUYPDIGCAcQRRg80gEHODY5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application student from the<b>Philippines</b> 」
+    「 I am a full stack web application student from the <b>Philippines</b> 」
     <br>
     <br>
   </samp>
